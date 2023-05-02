@@ -9,7 +9,7 @@ description = ""
 name = "hard-redesigning-for-restful-routes-starter"
 version = "0.1.0"
 [tool.poetry.dependencies]
-flask = "^1.1"
+flask = "^2.3"
 flask-sqlalchemy = "^2.4"
 python = "^3.8"
 [tool.poetry.dev-dependencies]
